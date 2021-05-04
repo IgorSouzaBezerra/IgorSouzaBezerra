@@ -1,16 +1,21 @@
-### Hi there 👋
+<img align="right" width="400" height="400" src="https://hum-systems.com/site/templates/images/jobs/developer_m.png">
 
-<!--
-**IgorSouzaBezerra/IgorSouzaBezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello guys 👋
+---
 
-Here are some ideas to get you started:
+Welcome to my GitHub! :octocat:. I'm Igor, systems analyst at [@Faber-Castell](https://github.com/igorsouzabezerra), passionate about technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Formation:
+- Computer Engineering 
+
+#### About me
+
+##### Working
+- Working with Java ☕
+##### Studying 📚
+- NodeJs | ReactJs | React Native :heavy_check_mark:
+- .NET 🐙
+---
+#### Talk to me 💬
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-de-souza-bezerra-9a0645168/)](https://www.linkedin.com/in/igor-de-souza-bezerra-9a0645168/)
