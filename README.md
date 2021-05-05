@@ -6,7 +6,7 @@
 Welcome to my GitHub! :octocat:. I'm Igor, systems analyst at [@Faber-Castell](https://github.com/igorsouzabezerra), passionate about technology.
 
 #### Formation:
-- Computer Engineering 
+- Computer Engineer :mortar_board:
 
 #### About me
 
