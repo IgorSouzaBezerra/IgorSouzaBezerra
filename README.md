@@ -13,7 +13,7 @@ Welcome to my GitHub! :octocat:. I'm Igor, systems analyst at [@Faber-Castell](h
 ##### Working
 - Working with Java ☕
 ##### Studying 📚
-- NodeJs | ReactJs | React Native :heavy_check_mark:
+- NodeJs | Java :heavy_check_mark:
 ---
 #### Talk to me 💬
 
